@@ -1,0 +1,1 @@
+This is the Android Studio project game - Tic Tac Toe. This is an academic project.
